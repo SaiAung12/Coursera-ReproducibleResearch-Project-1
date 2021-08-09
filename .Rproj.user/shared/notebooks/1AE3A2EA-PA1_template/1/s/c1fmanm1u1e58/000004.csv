@@ -1,1 +1,0 @@
-"0","data.frame(movement_data %>% group_by(date) %>% summarise(Mean=mean(steps), Median=median(steps)))"
