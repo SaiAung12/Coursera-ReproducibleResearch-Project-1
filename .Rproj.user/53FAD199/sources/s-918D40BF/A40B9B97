@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628186268362.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A40B9B97",
+    "lastKnownWriteTime" : 1628485435,
+    "last_content_update" : 1628485435502,
+    "path" : "~/Coursera_JH_DS/5.Reproducible_Research/Project_1/PA1_template.R",
+    "project_path" : "PA1_template.R",
+    "properties" : {
+        "cursorPosition" : "102,0",
+        "scrollLine" : "88",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

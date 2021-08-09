@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628457641672.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "87EAF5D1",
+    "lastKnownWriteTime" : 3834587621776957472,
+    "last_content_update" : 1628457641672,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2777FDBA",
+        "caption" : "movement_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=movement_data&cache_key=2777FDBA",
+        "displayedObservations" : 17568,
+        "environment" : "",
+        "expression" : "movement_data",
+        "object" : "movement_data",
+        "preview" : 0,
+        "totalObservations" : 17568,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628498641196.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1680485332",
+    "id" : "52D0C835",
+    "lastKnownWriteTime" : 1628498688,
+    "last_content_update" : 1628498688621,
+    "path" : "~/Coursera_JH_DS/5.Reproducible_Research/Project_1/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "180,3",
+        "scrollLine" : "161",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
